@@ -9,5 +9,4 @@
         echo "ocwyf";
         echo "dbtko";
         echo "jcoja";
-        echo "efdbh";
 ?>
