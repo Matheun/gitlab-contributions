@@ -12,5 +12,4 @@
         echo "duqap";
         echo "unsvn";
         echo "hayqy";
-        echo "cqlyc";
 ?>
