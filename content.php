@@ -17,5 +17,4 @@
         echo "tyudy";
         echo "wjbrs";
         echo "huxvi";
-        echo "idcpk";
 ?>
