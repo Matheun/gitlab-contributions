@@ -6,4 +6,5 @@
         echo "faslw";
         echo "xhptt";
         echo "lwnot";
+        echo "rstmo";
 ?>
