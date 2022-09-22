@@ -1,5 +1,5 @@
-public class Csvdmf {
+public class Cbgrda {
     public static void main() {
-        System.out.println("mmfsw");
+        System.out.println("goamb");
     }
 }
