@@ -1,5 +1,5 @@
-public class Cnofrk {
+public class Ctnxis {
     public static void main() {
-        System.out.println("kpaqr");
+        System.out.println("wvejk");
     }
 }
